@@ -24,7 +24,7 @@
     {{ with .Site.Params.author.subtitle }}
     <p class="author-subtitle">{{ . }}</p>
     {{ end }}
-    <p class="author-bio">{{ .Site.Params.author.description }}</p>
+    <p class="author-bio">{{ .Site.Params.author.description | markdownify }}</p>
     <div class="author-social-icons">
         {{- partial "socialIcons.html" site.Params.socialIcons -}}
     </div>

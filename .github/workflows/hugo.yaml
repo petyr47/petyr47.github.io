@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main  # Change to "master" if your default branch is master
+      - main 
 
 permissions:
   contents: read
@@ -22,12 +22,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.124.1 # You can replace this with your local Hugo version
+      HUGO_VERSION: 0.124.1 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # CRITICAL: Tells GitHub to fetch your theme submodule
+          submodules: recursive 
           fetch-depth: 0
 
       - name: Setup Pages
@@ -38,7 +38,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
-          extended: true # Uses Hugo Extended version
+          extended: true 
 
       - name: Build with Hugo
         env:

@@ -5,7 +5,27 @@
   text-align: center;
 }
 
-// dark mode override
+.author-social-icons {
+  margin-top: 1rem;
+  text-align: center;
+
+  a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 0.25rem;
+  }
+
+  svg {
+    color: #888a90;
+    height: 20px;
+    width: 20px;
+
+    &:hover {
+      color: rgb(221, 221, 221);
+    }
+  }
+}
+
 html.dark .author-subtitle {
   color: $dark-gray;
 }

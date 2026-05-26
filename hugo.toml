@@ -73,15 +73,20 @@ theme = "hugo-blog-awesome"
     url = '/blog/'
     weight = 20
   [[Languages.en-gb.menu.main]]
-    pageRef="Projects"
-    name = 'Projects'
-    url = '/Projects/'
+    pageRef="blog"
+    name = 'Blog'
+    url = '/blog/'
     weight = 20
+  [[Languages.en-gb.menu.main]]
+    pageRef="projects"
+    name = 'Projects'
+    url = '/projects/'
+    weight = 30
   [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.en-gb.params]
   sitename = "Peter's Personal Site"

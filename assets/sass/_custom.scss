@@ -1,0 +1,11 @@
+.author-subtitle {
+  font-size: $base-font-size * 1;
+  color: $gray;
+  margin: -0.5em 0 0.2em 0;
+  text-align: center;
+}
+
+// dark mode override
+html.dark .author-subtitle {
+  color: $dark-gray;
+}

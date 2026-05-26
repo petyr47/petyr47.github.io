@@ -56,8 +56,11 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb]
   languageName = "English"
   languageCode = "en-gb"
-  contentDir = "content/en"
+  contentDir = "content"
   weight = 1
+
+  [Languages.en-gb.author]
+    email = "anekepeter47@gmail.com"
 
   [Languages.en-gb.menu]
   [[Languages.en-gb.menu.main]]
@@ -73,20 +76,15 @@ theme = "hugo-blog-awesome"
     url = '/blog/'
     weight = 20
   [[Languages.en-gb.menu.main]]
-    pageRef="blog"
-    name = 'Blog'
-    url = '/blog/'
-    weight = 20
-  [[Languages.en-gb.menu.main]]
-    pageRef="projects"
+    pageRef="Projects"
     name = 'Projects'
     url = '/projects/'
-    weight = 30
+    weight = 20
   [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 40
+    weight = 30
 
 [Languages.en-gb.params]
   sitename = "Peter's Personal Site"

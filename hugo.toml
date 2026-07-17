@@ -109,7 +109,7 @@ theme = "hugo-blog-awesome"
   intro = "Peter Mark Aneke"
   name = "Peter Aneke"
   subtitle = "Senior Mobile Developer"
-  description = "Always getting better at building things, I will document some of them here along with some of my writing. \n Here is my [Resume](https://docs.google.com/document/d/1jnFZ5MLFnI2Uj6z2K2hQupYZSQr5I3ReC4GiuqweXSA/view)"
+  description = "Senior Mobile Developer specialising in Android, iOS and KMP. \n Here is my [Resume](https://docs.google.com/document/d/1jnFZ5MLFnI2Uj6z2K2hQupYZSQr5I3ReC4GiuqweXSA/view)"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]

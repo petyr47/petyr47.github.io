@@ -2,7 +2,7 @@ title = "Peter's Personal Site"
 baseURL = 'https://petyr47.github.io/'
 
 # This is what goes in <html lang="">
-languageCode = 'en-us'
+locale = 'en-us'
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
@@ -53,8 +53,8 @@ theme = "hugo-blog-awesome"
 
 ############################## English language ################################
 [Languages.en-gb]
-  languageName = "English"
-  languageCode = "en-gb"
+  label = "English"
+  locale = "en-gb"
   contentDir = "content"
   weight = 1
 

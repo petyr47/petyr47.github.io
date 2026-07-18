@@ -20,7 +20,7 @@ working on. Some of my longer-form writing also lives over on
 - **Languages:** Kotlin, Java, Swift, Dart.
 - **Android:** Jetpack Compose, AOSP, Coroutines, Gradle, Hilt, Koin, Retrofit, Room, etc.
 - **iOS:**: Swift, SwiftUI, Objective-C.
-- **Cross-platform:** KMP, Flutter, Firebase, Ktor.
+- **Cross-platform:** KMP, Flutter, Firebase, Ktor etc.
 - **Backend:** Spring-Boot, Ktor, PostgreSQL.
 - **Tooling:** GitHub Actions, Sentry, SonarQube, Figma, Fastlane.
 - **APIs:** REST, GraphQl, OpenAPI/Swagger, Postman.

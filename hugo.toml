@@ -92,7 +92,7 @@ theme = "hugo-blog-awesome"
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
   description = "Peter Aneke's blog on mobile development, writing, and projects."
-  mainSections = ['blog']
+  mainSections = ['blog', 'projects']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button

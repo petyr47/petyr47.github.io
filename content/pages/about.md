@@ -19,11 +19,25 @@ working on. Some of my longer-form writing also lives over on
 
 - **Languages:** Kotlin, Java, Swift, Dart.
 - **Android:** Jetpack Compose, AOSP, Coroutines, Gradle, Hilt, Koin, Retrofit, Room, etc.
-- **iOS:**: Swift, SwiftUI, Objective-C.
-- **Cross-platform:** KMP, Flutter, Firebase, Ktor.
-- **Backend:** Spring-Boot, Ktor, PostgreSQL.
+- **iOS:** Swift, SwiftUI, Objective-C.
+- **Cross-platform:** KMP, Flutter, Firebase.
+- **Backend:** Spring-Boot, Ktor, Exposed, PostgreSQL.
 - **Tooling:** GitHub Actions, Sentry, SonarQube, Figma, Fastlane.
+- **Reverse Engineering/Cyber Security:** JADx, Ghidra.
 - **APIs:** REST, GraphQl, OpenAPI/Swagger, Postman.
+- **AI:** Claude Code, OpenCode, Gemini.
+  
+
+## Courses/Certifications
+- **B.Eng, Electrical/Electronic Engineering** Federal University of Technology, Owerri.
+- **Android OS Internals / AOSP in Depth** Udemy.
+- **Compose Multiplatform - iOS/Android Development with Kotlin** Udemy.
+- **Hacking and Pentesting Android Applications** Udemy.
+- **Full Stack Kotlin Multiplatform KMP Development | Web Mobile** Udemy.
+- **Mobile Penetration Testing of Android Applications** Udemy.
+- **Android Jetpack Compose: The Comprehensive Bootcamp** Udemy.
+- **iOS & Swift: The Complete iOS App Development Bootcamp** Udemy.
+
 
 ## Around the site
 
@@ -35,4 +49,5 @@ working on. Some of my longer-form writing also lives over on
 
 - GitHub: [@petyr47](https://github.com/petyr47)
 - LinkedIn: [peter-aneke](https://www.linkedin.com/in/peter-aneke/)
+- StackOverflow: [petyr](https://stackoverflow.com/users/8554450/petyr)
 - Email: [anekepeter47@gmail.com](mailto:anekepeter47@gmail.com)
